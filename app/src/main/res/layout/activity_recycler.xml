@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.zfeng.swiperefreshload.SwipeRefreshLoadLayout
+        android:id="@id/recycler_swipe"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <android.support.v7.widget.RecyclerView
+            android:id="@id/recycler_list"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:scrollbars="vertical"/>
+    </com.zfeng.swiperefreshload.SwipeRefreshLoadLayout>
+</LinearLayout>

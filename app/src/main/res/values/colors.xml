@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tint_blue">#28a9ea</color>
+    <color name="dark_blue">#212121</color>
+    <color name="tint_green">#7FFF00</color>
+    <color name="dark_purple">#8A2BE2</color>
+    <color name="color_1">#7FFFD4</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="main_swipe" />
+    <item type="id" name="main_list" />
+    <item type="id" name="recycler_list" />
+    <item type="id" name="recycler_swipe" />
+</resources>
